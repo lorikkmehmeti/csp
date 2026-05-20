@@ -1,0 +1,20 @@
+{
+    "close": "Schließen",
+    "refresh": "Aktualisieren",
+    "retry": "Wiederholen",
+    "clear": "Leeren",
+    "submit": "Absenden",
+    "apply": "Anwenden",
+    "manage": "Verwalten",
+    "options": "Optionen",
+    "details": "Details",
+    "status": "Status",
+    "loading": "Laden...",
+    "noData": "Keine Daten verfügbar",
+    "notSpecified": "Nicht angegeben",
+    "actions": {
+        "title": "Aktionen",
+        "confirm": "Sind Sie sicher?",
+        "cannotUndo": "Diese Aktion kann nicht rückgängig gemacht werden."
+    }
+}

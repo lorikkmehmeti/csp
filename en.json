@@ -1,0 +1,20 @@
+{
+    "close": "Close",
+    "refresh": "Refresh",
+    "retry": "Retry",
+    "clear": "Clear",
+    "submit": "Submit",
+    "apply": "Apply",
+    "manage": "Manage",
+    "options": "Options",
+    "details": "Details",
+    "status": "Status",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "notSpecified": "Not specified",
+    "actions": {
+        "title": "Actions",
+        "confirm": "Are you sure?",
+        "cannotUndo": "This action cannot be undone."
+    }
+}

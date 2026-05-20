@@ -1,0 +1,20 @@
+{
+  "close": "Zatvori",
+  "refresh": "Osvježi",
+  "retry": "Pokušaj ponovo",
+  "clear": "Očisti",
+  "submit": "Pošalji",
+  "apply": "Primijeni",
+  "manage": "Upravljaj",
+  "options": "Opcije",
+  "details": "Detalji",
+  "status": "Status",
+  "loading": "Učitavanje...",
+  "noData": "Nema dostupnih podataka",
+  "notSpecified": "Nije navedeno",
+  "actions": {
+    "title": "Akcije",
+    "confirm": "Jeste li sigurni?",
+    "cannotUndo": "Ova akcija se ne može poništiti."
+  }
+}
